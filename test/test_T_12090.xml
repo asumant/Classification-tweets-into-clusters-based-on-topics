@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- this file has been obtained by crawling internet sites by Fundacio Barcelona Media 
+ please, access this site: caw2.barcelonamedia.org to read the terms and conditions of use --><thread id="T_12090" >
+<posts>
+<post id="17470" >
+<to>
+@keithrull
+</to>
+<date>
+1227903023
+</date>
+<body>
+Glad that psake is bringing a smile to your face. If you have any suggestions for improvement, please let me know.
+</body>
+</post>
+<post id="17471" >
+<to>
+@PeterRitchie
+</to>
+<date>
+1226700307
+</date>
+<body>
+Why do you have to qualify that statement with &quot;in a C# project&quot;? :) Sorry, VBers. That was just plain mean on my part...
+</body>
+</post>
+<post id="17472" >
+<to>
+@stevenharman
+</to>
+<date>
+1226463713
+</date>
+<body>
+@haacked Yes, your assumption is correct. R#r builds its own AST and caches it in _ReSharper.&amp;lt;SlnName&amp;gt; or TEMP.
+</body>
+</post>
+<post id="17473" >
+<to>
+@nelsonmichael
+</to>
+<date>
+1226463351
+</date>
+<body>
+I haven't found the additional R#r files to be a problem. R#r can store caches in TEMP if desired. R#r Options... General...
+</body>
+</post>
+<post id="17474" >
+<to>
+@lazycoder
+</to>
+<date>
+1226079685
+</date>
+<body>
+If you're running any ReSharper add-ins, I would try disabling them as I've found some can cause stability issues.
+</body>
+</post>
+<post id="36598" >
+<to>
+@rkawchuk
+</to>
+<date>
+1228695639
+</date>
+<body>
+Welcome to the Twitterverse. Now I can publicly proclaim my love for you. :)
+</body>
+</post>
+<post id="157386" >
+<to>
+@bradwilson
+</to>
+<date>
+1229357173
+</date>
+<body>
+I'll submit a feature request for xunit to support per-assembly setup/teardown. Thanks.
+</body>
+</post>
+<post id="157387" >
+<to>
+@bradwilson
+</to>
+<date>
+1229357135
+</date>
+<body>
+When I read the xunit docs, it sounded like you got one T per typeof(T) rather than per-class that used T.
+</body>
+</post>
+<post id="157388" >
+<to>
+@bradwilson
+</to>
+<date>
+1229314804
+</date>
+<body>
+You can achieve much the same result as per-assembly setup/teardown if IUseFixture&amp;lt;T&amp;gt; creates one T per typeof(T). Thoughts?
+</body>
+</post>
+<post id="157389" >
+<to>
+@MotoWilliams
+</to>
+<date>
+1229227890
+</date>
+<body>
+Personally I thought Keaton's Batman was superb as was Nicholson's Joker. But maybe that's just nostalgia.
+</body>
+</post>
+<post id="157390" >
+<to>
+@mendicant
+</to>
+<date>
+1229226642
+</date>
+<body>
+West's Batman voice was campy and fit the show. Bale's Batman voice was cheesier than a well-aged cheddar.
+</body>
+</post>
+<post id="157391" >
+<to>
+@topgenorth
+</to>
+<date>
+1229225491
+</date>
+<body>
+I was going to do what I do every night - try to take over the world! But it's too frigging cold out. So I chose xunit instead.
+</body>
+</post>
+<post id="283887" >
+<to>
+@bradygaster
+</to>
+<date>
+1230054520
+</date>
+<body>
+I had a simple TC 3.2 install (relatively fresh) that I upgraded to TC 4.0. All 4 builds came over.
+</body>
+</post>
+<post id="283888" >
+<to>
+@robwindsor
+</to>
+<date>
+1230053995
+</date>
+<body>
+I hadn't realized. Like the moon, Liskov is a harsh mistress... (Geek points if you can name the author to which I'm alluding.)
+</body>
+</post>
+<post id="283889" >
+<to>
+@rlewallen
+</to>
+<date>
+1230053882
+</date>
+<body>
+Thanks for the heads-up. The only TC plug-in that I need right now is Gallio, which is compatible with 4.0.
+</body>
+</post>
+<post id="283890" >
+<to>
+@bradygaster
+</to>
+<date>
+1230052969
+</date>
+<body>
+TeamCity 4.0 contains lots of new features (http://tinyurl.com/6g3e2u) and the upgrade is fast and simple. No reason not to.
+</body>
+</post>
+<post id="283891" >
+<to>
+@gblock
+</to>
+<date>
+1229970367
+</date>
+<body>
+and I had a good mindmeld over writing a MEF article together. MEF, like ASP.NET MVC, are very promising techs coming from Redmond.
+</body>
+</post>
+<post id="283892" >
+<to>
+@rkawchuk
+</to>
+<date>
+1229966887
+</date>
+<body>
+Can't believe in one week I'll be flying solo at home with two young kids... :)
+</body>
+</post>
+<post id="283893" >
+<to>
+@aaronjensen
+</to>
+<date>
+1229892550
+</date>
+<body>
+I completely agree. ASP.NET MVC continues to evolve in positive ways that I would personally call Beta2, not RC.
+</body>
+</post>
+<post id="283894" >
+<to>
+@kbaley
+</to>
+<date>
+1229712324
+</date>
+<body>
+Awesome! I'll have to run a svn update on Sharp Architecture and check it out. Thanks!
+</body>
+</post>
+<post id="283895" >
+<to>
+@kbaley
+</to>
+<date>
+1229712149
+</date>
+<body>
+I've been looking at Sharp Arch. Overall I like it, though I don't like that 3rd party dependencies are all dumped into sln items.
+</body>
+</post>
+<post id="283896" >
+<to>
+@jpboodhoo
+</to>
+<date>
+1229711969
+</date>
+<body>
+Welcome back to the Twitterverse.
+</body>
+</post>
+<post id="283897" >
+<to>
+@chadmyers
+</to>
+<date>
+1229709523
+</date>
+<body>
+Which part? Strongly-typed views or C#/VB syntax in Inherits=&quot;ViewPage&amp;lt;T&amp;gt;&quot;?
+</body>
+</post>
+<post id="283898" >
+<to>
+@dotjosh
+</to>
+<date>
+1229709422
+</date>
+<body>
+Depends. If you're experiencing pain with CC.NET, then try porting a project or two over to TeamCity. Personally I prefer TC now.
+</body>
+</post>
+<post id="480707" >
+<to>
+
+</to>
+<date>
+1228364418
+</date>
+<body>
+Decided that I needed to update some demos for tomorrow's presentation more than I needed to go to the DevTeach attendee party... :^(
+</body>
+</post>
+<post id="480708" >
+<to>
+
+</to>
+<date>
+1228350408
+</date>
+<body>
+Heading off to the DevTeach attendee party...
+</body>
+</post>
+<post id="480709" >
+<to>
+
+</to>
+<date>
+1228330392
+</date>
+<body>
+Sitting in Greg Young's TDD in a DbC World...
+</body>
+</post>
+<post id="480710" >
+<to>
+
+</to>
+<date>
+1228264603
+</date>
+<body>
+Heading out to the DevTeach speakers dinner...
+</body>
+</post>
+<post id="480711" >
+<to>
+
+</to>
+<date>
+1228221802
+</date>
+<body>
+Off to grab a coffee and then onto the DevTeach keynote... Good luck, @tedneward.
+</body>
+</post>
+<post id="480712" >
+<to>
+
+</to>
+<date>
+1228179140
+</date>
+<body>
+Off to Ye Olde Orchard to meet up with @dbelcham, @gotwoods, @ayende, and whomever else happens to be around...
+</body>
+</post>
+<post id="480713" >
+<to>
+
+</to>
+<date>
+1228171948
+</date>
+<body>
+Je suis a Montreal. Time to see how much high school French I've forgotten. It's rusty by less than two decades. Bon chance a moi!
+</body>
+</post>
+<post id="480714" >
+<to>
+
+</to>
+<date>
+1228152077
+</date>
+<body>
+Sitting in YYC waiting for my flight to DevTeach Montreal. Should be a blast!
+</body>
+</post>
+<post id="480715" >
+<to>
+
+</to>
+<date>
+1228020970
+</date>
+<body>
+What exactly is TripIt trying to tell me? &quot;Closeness Alerts @dbelcham will be close to you on this trip.&quot; I am frightened. Very frightened.
+</body>
+</post>
+<post id="480716" >
+<to>
+
+</to>
+<date>
+1227800730
+</date>
+<body>
+In April Blizzard joked it was releasing WoW for the Atari 2600. http://tinyurl.com/2gzrdj Someone actually did. http://tinyurl.com/69u8hl
+</body>
+</post>
+<post id="480717" >
+<to>
+
+</to>
+<date>
+1227205511
+</date>
+<body>
+Simplifying application wire-up using Windsor. The fluent config is very nice. Gradually migrating to convention-based config. Even nicer.
+</body>
+</post>
+<post id="480718" >
+<to>
+
+</to>
+<date>
+1227049478
+</date>
+<body>
+You know you've been using ReSharper too much when you find yourself automatically pressing ALT-ENTER for errors in Office documents...
+</body>
+</post>
+<post id="480719" >
+<to>
+
+</to>
+<date>
+1226450685
+</date>
+<body>
+Personally I still find R#r more compelling for other reasons, namely code browsing and analysis. I'll have to blog about it...
+</body>
+</post>
+<post id="480720" >
+<to>
+
+</to>
+<date>
+1226450626
+</date>
+<body>
+RE:CodeRush vs. R#r for TDD. I compared them a few years ago and at the time R#r was far better. Sounds like CR has improved. Good for them!
+</body>
+</post>
+<post id="480721" >
+<to>
+
+</to>
+<date>
+1226450404
+</date>
+<body>
+Been sick since Sunday and had to cancel my talk at the Alberta Architect Forum on Thursday as I doubt my voice will return in time. :^(
+</body>
+</post>
+<post id="496798" >
+<to>
+
+</to>
+<date>
+1228533090
+</date>
+<body>
+Catching up at home after DevTeach...
+</body>
+</post>
+<post id="496799" >
+<to>
+
+</to>
+<date>
+1228477833
+</date>
+<body>
+Another successful DevTeach. Thanks, Montreal, it's been fun. Now I'm headed to the airport after a blissful 2 hours of sleep...
+</body>
+</post>
+<post id="496800" >
+<to>
+
+</to>
+<date>
+1228449448
+</date>
+<body>
+OH: @ayende is a great big puppy when he is a drunk.
+</body>
+</post>
+<post id="496801" >
+<to>
+
+</to>
+<date>
+1228446748
+</date>
+<body>
+I'm acting as neutral territory between Israel and the 'Peg...
+</body>
+</post>
+<post id="496802" >
+<to>
+
+</to>
+<date>
+1228431883
+</date>
+<body>
+Off to an Italian restaurant with a bunch of my fellow DevTeach speakers...
+</body>
+</post>
+<post id="496803" >
+<to>
+
+</to>
+<date>
+1228404583
+</date>
+<body>
+Agile Q&amp;A with James Kovacs and Friends this afternoon. Just have to make sure my Friends show up. I'll try to live up to Laribee's example.
+</body>
+</post>
+<post id="496804" >
+<to>
+
+</to>
+<date>
+1228404477
+</date>
+<body>
+Feeling very pleased with how my IoC and PI sessions turned out... Highest review scores I've ever received! :)
+</body>
+</post>
+<post id="506350" >
+<to>
+
+</to>
+<date>
+1228674439
+</date>
+<body>
+Getting ready to fly to Toronto for my grandfather's funeral... :^(
+</body>
+</post>
+<post id="506907" >
+<to>
+
+</to>
+<date>
+1228695529
+</date>
+<body>
+Sitting in YYC wondering if my flight will leave on time or at all. Lots of delays and cancellations due to weather.
+</body>
+</post>
+<post id="506908" >
+<to>
+
+</to>
+<date>
+1228697820
+</date>
+<body>
+Gotta love AirCanada. 20 minutes past boarding time, plane just pulled up to the gate, and they're reporting &quot;on time&quot;. Somehow I think not.
+</body>
+</post>
+<post id="506909" >
+<to>
+
+</to>
+<date>
+1228699605
+</date>
+<body>
+AirCanada has an extremely generous notion of &quot;on time&quot;. Should have flown WestJet...
+</body>
+</post>
+<post id="506910" >
+<to>
+
+</to>
+<date>
+1228756439
+</date>
+<body>
+Why do Toronto drivers insist on cutting into funeral processions? Talk about disrespect!
+</body>
+</post>
+<post id="506911" >
+<to>
+
+</to>
+<date>
+1228795263
+</date>
+<body>
+Feeling very metrosexual after watching two inflight movies - The Dark Knight and Mama Mia! Both were alright, but not stellar.
+</body>
+</post>
+<post id="659912" >
+<to>
+
+</to>
+<date>
+1229226273
+</date>
+<body>
+I wanted to use xunit's IUseFixture&amp;lt;T&amp;gt; with WatiN and Cassini to perform acceptance testing. Any xunit gurus know if this is possible?
+</body>
+</post>
+<post id="659913" >
+<to>
+
+</to>
+<date>
+1229226102
+</date>
+<body>
+xunit's IUseFixture&amp;lt;T&amp;gt; creates a new T per test class/fixture. So it's not usable as per-assembly setup/teardown for starting a webserver.
+</body>
+</post>
+<post id="659914" >
+<to>
+
+</to>
+<date>
+1229224961
+</date>
+<body>
+Taking xunit for a spin... IUseFixture&amp;lt;T&amp;gt; for per-fixture setup/teardown is interesting. Time to see if it works per-assembly too...
+</body>
+</post>
+<post id="659915" >
+<to>
+
+</to>
+<date>
+1229132187
+</date>
+<body>
+Spent the afternoon spiking replacement of repo layer with Fluent NHib. Very nice.
+</body>
+</post>
+<post id="834074" >
+<to>
+
+</to>
+<date>
+1230053166
+</date>
+<body>
+Liskov is king. Cross him and you're in for a world of pain. Fixing LSP issues now, which is dramatically simplifying IoC config.
+</body>
+</post>
+<post id="834075" >
+<to>
+
+</to>
+<date>
+1229972307
+</date>
+<body>
+MS Fargo Campus pokes fun at MS Redmond Campus for their weather problems. http://blogs.msdn.com/oldnewthing/archive/2008/12/22/9244583.aspx
+</body>
+</post>
+<post id="834076" >
+<to>
+
+</to>
+<date>
+1229971288
+</date>
+<body>
+Hi-ho, hi-ho, a-refactoring we will go...
+</body>
+</post>
+<post id="834077" >
+<to>
+
+</to>
+<date>
+1229967016
+</date>
+<body>
+Looks like VS2010 is getting a heap of ReSharper-like features for navigation and code creation. http://tinyurl.com/ayc64v
+</body>
+</post>
+<post id="834078" >
+<to>
+
+</to>
+<date>
+1229899166
+</date>
+<body>
+My Virtual Server at GoDaddy is running low on memory. The only way to increase from 512 to 768MB RAM is to reprovision it. Fail!!!
+</body>
+</post>
+<post id="834079" >
+<to>
+
+</to>
+<date>
+1229726936
+</date>
+<body>
+TIP: When refactoring, apply multiple automated refactoring to get from A-B-C-D instead of breaking your code by going directly from A to D.
+</body>
+</post>
+<post id="834080" >
+<to>
+
+</to>
+<date>
+1229709897
+</date>
+<body>
+ASP.NET MVC Team - Whatever happened to going from Beta to RC with only bug fixes? If you are adding features, you're not RC IMHO.
+</body>
+</post>
+<post id="834081" >
+<to>
+
+</to>
+<date>
+1229709644
+</date>
+<body>
+ASP.NET MVC missed the boat on scaffolding though. It shouldn't be a wizard IMHO. Show me a default view so that I can rapidly prototype.
+</body>
+</post>
+</posts>
+</thread>
